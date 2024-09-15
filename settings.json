@@ -1,14 +1,14 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Gladgrid.aternos.me",
+    "port": :18251,
+    "version": "1.19.0"
   },
 
   "position": {
